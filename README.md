@@ -83,11 +83,37 @@ print("RMSE = ",rmse)
 
 ```
 Program to implement the simple linear regression model for predicting the marks scored.
+
 Developed by: MANIKANDAN V
 RegisterNumber:  212224230151
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
+
+<img width="384" height="264" alt="image" src="https://github.com/user-attachments/assets/f36c1ab1-03fe-4305-afc5-25ef9fa2fc9d" />
+<img width="326" height="255" alt="image" src="https://github.com/user-attachments/assets/7c8ef6d9-91a1-4194-8d8a-64cb91a95e8c" />
+<img width="763" height="172" alt="image" src="https://github.com/user-attachments/assets/d5be8e03-9501-4d9d-a64a-a68d4edb5706" />
+<img width="664" height="670" alt="image" src="https://github.com/user-attachments/assets/49ab0854-01e1-4dc2-9d44-7879890302d6" />
+<img width="716" height="190" alt="image" src="https://github.com/user-attachments/assets/196cb3e2-dec1-4c2e-998a-c177efa0564a" />
+<img width="603" height="154" alt="image" src="https://github.com/user-attachments/assets/b6dd8f39-1f0f-4000-b3f1-6192ea31fac5" />
+
+## Training Set Graph
+<img width="963" height="788" alt="image" src="https://github.com/user-attachments/assets/a28b36fa-90d3-48ec-b695-ce69fb750828" />
+## Test Set Graph
+<img width="958" height="769" alt="image" src="https://github.com/user-attachments/assets/5d4a21c8-6086-4684-86a2-ef61531397a2" />
+
+<img width="721" height="326" alt="image" src="https://github.com/user-attachments/assets/aba18976-3aaf-4790-9152-5376f55732b2" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Result:
